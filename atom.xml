@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jiaweiwang001.github.io/"/>
-  <updated>2016-09-25T03:49:27.465Z</updated>
+  <updated>2016-09-25T05:51:21.132Z</updated>
   <id>http://jiaweiwang001.github.io/</id>
   
   <author>
@@ -14,6 +14,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Data Testing</title>
+    <link href="http://jiaweiwang001.github.io/2016/09/25/Data-Testing/"/>
+    <id>http://jiaweiwang001.github.io/2016/09/25/Data-Testing/</id>
+    <published>2016-09-25T05:49:52.000Z</published>
+    <updated>2016-09-25T05:51:21.132Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="PE-数据研究"><a href="#PE-数据研究" class="headerlink" title="PE 数据研究"></a>PE 数据研究</h2><h3 id="图表"><a href="#图表" class="headerlink" title="图表"></a>图表</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;PE-数据研究&quot;&gt;&lt;a href=&quot;#PE-数据研究&quot; class=&quot;headerlink&quot; title=&quot;PE 数据研究&quot;&gt;&lt;/a&gt;PE 数据研究&lt;/h2&gt;&lt;h3 id=&quot;图表&quot;&gt;&lt;a href=&quot;#图表&quot; class=&quot;headerlink&quot; title=&quot;图
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
